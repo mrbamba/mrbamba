@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.com/mrbamba/mrbamba/blob/main/dan_haski_profile_pic.jpeg?raw=true" width="150"/>
+    <img src="https://avatars.githubusercontent.com/u/6283385?v=4" width="150"/>
     <div id="badges">
       <a href="https://www.linkedin.com/in/danhaski/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
